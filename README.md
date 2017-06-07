@@ -9,6 +9,11 @@
 
    This Sensor no need 1KOhm Resistor because is already installed on board
 
+# Software Setup:
+
+- https://github.com/adafruit/DHT-sensor-library
+- https://github.com/knolleary/pubsubclient
+
 # Settings:
 
 ```
