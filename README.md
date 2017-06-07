@@ -11,6 +11,7 @@
 
 # Software Setup:
 
+- https://www.arduino.cc/en/main/software
 - https://github.com/adafruit/DHT-sensor-library
 - https://github.com/knolleary/pubsubclient
 
