@@ -12,7 +12,9 @@
 # Settings:
 
 char* topic = "dht22";
+
 char* server = "148.251.206.53";
+
 char* hellotopic = "hello_topic";
 
 You can change this setting in the Arduino Sketch with your parameters of MQTT-Server and Topic.
